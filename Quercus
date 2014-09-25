@@ -1,0 +1,73 @@
+"Habitat"	"Plot"	"Scenario"	"Total.Biomass"
+"Forest"	1	"Control"	1.389
+"Forest"	1	"Dry Summer"	1.084
+"Forest"	1	"Wet Summer"	0.985
+"Forest"	2	"Control"	1.422
+"Forest"	2	"Dry Summer"	1.667
+"Forest"	2	"Wet Summer"	1.793
+"Forest"	3	"Control"	1.189
+"Forest"	3	"Dry Summer"	1.356
+"Forest"	3	"Wet Summer"	1.636
+"Forest"	4	"Control"	1.953
+"Forest"	4	"Dry Summer"	1.371
+"Forest"	4	"Wet Summer"	1.49
+"Forest"	5	"Control"	0.849
+"Forest"	5	"Dry Summer"	1.369
+"Forest"	5	"Wet Summer"	1.143
+"Forest"	6	"Control"	0.95
+"Forest"	6	"Dry Summer"	1.351
+"Forest"	6	"Wet Summer"	1.951
+"Forest"	7	"Control"	1.41
+"Forest"	7	"Dry Summer"	2.913
+"Forest"	7	"Wet Summer"	2.303
+"Forest"	8	"Control"	1.203
+"Forest"	8	"Dry Summer"	1.538
+"Forest"	8	"Wet Summer"	1.853
+"Grassland"	1	"Control"	0.000
+"Grassland"	1	"Dry Summer"	2.331
+"Grassland"	1	"Wet Summer"	4.908
+"Grassland"	2	"Control"	2.596
+"Grassland"	2	"Dry Summer"	3.454
+"Grassland"	2	"Wet Summer"	3.611
+"Grassland"	3	"Control"	1.534
+"Grassland"	3	"Dry Summer"	2.765
+"Grassland"	3	"Wet Summer"	3.517
+"Grassland"	4	"Control"	6.777
+"Grassland"	4	"Dry Summer"	1.143
+"Grassland"	4	"Wet Summer"	2.741
+"Grassland"	5	"Control"	1.627
+"Grassland"	5	"Dry Summer"	2.849
+"Grassland"	5	"Wet Summer"	2.86
+"Grassland"	6	"Control"	1.662
+"Grassland"	6	"Dry Summer"	2.233
+"Grassland"	6	"Wet Summer"	2.724
+"Grassland"	7	"Control"	0.000
+"Grassland"	7	"Dry Summer"	2.005
+"Grassland"	7	"Wet Summer"	1.841
+"Grassland"	8	"Control"	1.238
+"Grassland"	8	"Dry Summer"	1.689
+"Grassland"	8	"Wet Summer"	4.084
+"Shrubland"	1	"Control"	1.991
+"Shrubland"	1	"Dry Summer"	2.15
+"Shrubland"	1	"Wet Summer"	2.357
+"Shrubland"	2	"Control"	2.056
+"Shrubland"	2	"Dry Summer"	1.845
+"Shrubland"	2	"Wet Summer"	2.354
+"Shrubland"	3	"Control"	1.533
+"Shrubland"	3	"Dry Summer"	2.151
+"Shrubland"	3	"Wet Summer"	1.781
+"Shrubland"	4	"Control"	1.881
+"Shrubland"	4	"Dry Summer"	1.558
+"Shrubland"	4	"Wet Summer"	2.218
+"Shrubland"	5	"Control"	1.718
+"Shrubland"	5	"Dry Summer"	1.655
+"Shrubland"	5	"Wet Summer"	2.086
+"Shrubland"	6	"Control"	1.117
+"Shrubland"	6	"Dry Summer"	2.323
+"Shrubland"	6	"Wet Summer"	1.865
+"Shrubland"	7	"Control"	1.641
+"Shrubland"	7	"Dry Summer"	1.475
+"Shrubland"	7	"Wet Summer"	1.391
+"Shrubland"	8	"Control"	0.986
+"Shrubland"	8	"Dry Summer"	2.003
+"Shrubland"	8	"Wet Summer"	1.322
